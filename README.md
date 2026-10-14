@@ -27,11 +27,6 @@ Survivors have values tightly grouped around 1.1 mg/dL, while patients who died 
 - `notebooks/`: the exploratory analysis
 - `images/`: charts used in this README
 
-## Next steps
-- [ ] Explore more variables (age, anaemia, blood pressure...)
-- [ ] Build a simple prediction model
-- [ ] Evaluate the model and discuss its limits
-
 ## Tools
 Python, pandas, matplotlib, seaborn
 ## Modeling
