@@ -13,7 +13,7 @@ Heart Failure Clinical Records (UCI Machine Learning Repository): 299 patients, 
 ### Ejection fraction
 Patients who died have a lower ejection fraction (median around 30%) than survivors (median around 38%). A heart that pumps less blood is associated with a higher risk of death.
 
-![Ejection fraction by outcome](images/ejection_fraction.png)
+   ![Ejection fraction by outcome](images/ejection_fraction%20.png)
 
 ### Serum creatinine
 Survivors have values tightly grouped around 1.1 mg/dL, while patients who died show a higher median and more extreme values. Higher creatinine, a sign of kidney stress, is associated with worse outcomes.
